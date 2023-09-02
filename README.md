@@ -1,8 +1,8 @@
 # We The People Gold/Silver 🪙
 
-InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. It's a single python script that can connect to any of the OpenAI API chat models (gpt-3.5-turbo, gpt4, etc.). 
-
-This eliminates the need for re-prompting when using a large text input or copying and pasting endless chunks of text into chatGPT. 📚
+WTPAg and WTPAu are both Silver and Gold backed coins. Coins are stable and will always be equivalent to Gold/USD or Silver/USD.
+Backed by Chainlink Oracles.
+Available for purchase at [wethepeoplegold.com](https://www.wethepeoplegold.com/) 
 
 ## Dependencies 📦
 
@@ -13,6 +13,6 @@ This eliminates the need for re-prompting when using a large text input or copyi
 
 Go to [wethepeoplegold.com](https://www.wethepeoplegold.com/) to purchase.
 
-## Proudly built by Etai Gabbai
+## Proudly built by Etai Gabbai in Irvine, CA
 
 [https://www.fiverr.com/etaigabbai](https://www.fiverr.com/etaigabbai)
