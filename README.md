@@ -14,3 +14,5 @@ This eliminates the need for re-prompting when using a large text input or copyi
 Go to [wethepeoplegold.com](https://www.wethepeoplegold.com/) to purchase.
 
 ## Proudly built by Etai Gabbai
+
+[https://www.fiverr.com/etaigabbai](https://www.fiverr.com/etaigabbai)
